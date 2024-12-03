@@ -1,4 +1,4 @@
-<h1 align="center">Computer Vision Framework for Domino Chain Motion Capture</h1>
+<h1 align="center">Computer Vision Framework for Domino Chain Toppling Motion Capture</h1>
 
 ## About The Project
 
@@ -13,7 +13,7 @@ Domino chain effect is a complex, marginally stabilized multi-body dynamics syst
 The framework has been tested across various setups and demonstrated reliable results in accurately acquiring the angular position and velocity of each individual domino block through instantaneous detection.
 
 <div align="center">
-    <img src="Reference Materials/Images/detection for different set up.png" alt="with-diff-setup" width="322" height="322">
+    <img src="Reference Materials/Images/detection for different set up.png" alt="with-diff-setup" width="437" height="322">
   </a>
 </div>
 
@@ -24,7 +24,8 @@ The framework has been tested across various setups and demonstrated reliable re
 
 ## Original Design Document
 
-**Formal Paper for Design**: Full document of the workflow and expirement set up can be found [here](Reference Materials/Paper/DCE_Formal_Report_Final_Copy.pdf).
+**Formal Paper for Design**: Full document of the workflow and expirement set up can be found
+[here](Reference Materials/Paper/DCE_Formal_Report_Final_Copy.pdf).
 
 ## Contacts
 
